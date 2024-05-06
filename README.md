@@ -1,6 +1,6 @@
 # Swetha's Portfolio
 
-This repository contains the source code for Swetha's online portfolio. The portfolio showcases Swetha's education, skills, projects, publications, achievements, and more.
+Hello there! 👋 I'm Swetha Chaganti, and this is my online portfolio. Welcome to my corner of the internet where I showcase my journey, skills, and projects!
 
 ## Table of Contents
 
@@ -12,51 +12,62 @@ This repository contains the source code for Swetha's online portfolio. The port
 - [Publications](#publications)
 - [Achievements](#achievements)
 - [Footer](#footer)
+- [Navigation](#navigation)
+- [Styling](#styling)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## About
 
-Swetha is an undergraduate student majoring in computer science with a focus on Artificial Intelligence and Machine Learning. This section provides a brief overview of her interests, goals, and dedication to learning and innovation.
+I'm an undergraduate student pursuing a degree in computer science with a keen interest in Artificial Intelligence and Machine Learning. I'm passionate about leveraging technology to solve real-world problems and constantly seek new challenges to grow and learn from.
 
 ## Education
 
-This section details Swetha's educational background, including her Bachelor of Technology degree, intermediate education, and secondary education.
+- **Bachelor of Technology:** Currently pursuing at Pragati Engineering College, specializing in CSE with a focus on A.I & M.L.
+- **Intermediate Education:** Completed at Aditya Junior College with a specialization in MPC, achieving a remarkable percentage of 94.1%.
+- **Secondary Education:** Completed at Aditya (EM) High School with a perfect CGPA of 10.
 
 ## Internships
 
-Swetha has gained practical experience through various internships. This section lists her internships, including roles, duration, and key responsibilities.
+During my academic journey, I've had the privilege of participating in valuable internships:
+- **Salesforce Developer Virtual Internship:** April 2022 - June 2022. Gained hands-on experience in Salesforce development, including customization, Apex coding, and Lightning component creation.
+- **AWS Cloud Virtual Internship:** September 2023 – November 2023. Acquired practical skills in AWS Cloud and its services.
 
 ## Skills
 
-Swetha possesses a diverse skill set covering programming languages, web development, machine learning, cloud computing, databases, and core competencies. This section highlights her proficiency in different areas.
+Here are some of the skills I've developed and honed:
+- **Programming Languages:** Java, Python, C
+- **Web Development:** HTML, CSS, JavaScript
+- **Machine Learning:** Model Building Algorithms, Libraries
+- **Cloud:** AWS, Azure
+- **Database:** SQL
+- **Core Competencies:** Operating Systems, Computer Networks, Software Development Life Cycle
+- **Other:** Git/Github, Microsoft Excel
+- **Soft Skills:** Communication, Leadership, Adaptability
 
 ## Projects
 
-Swetha has worked on several projects demonstrating her technical abilities and problem-solving skills. This section showcases some of her notable projects, providing brief descriptions and links to their repositories or related resources.
+I've worked on various projects that reflect my technical prowess and problem-solving abilities:
+- **Natural Disaster Intensity Analysis and Prediction:** Developed a CNN-based system to analyze and classify the intensity of natural disasters in images, integrating real-time webcam analysis.
+- **SHARK TANK - Startups Success Predictor:** Currently working on a Machine Learning-based model to predict the success and failure rate of startup ideas.
 
 ## Publications
 
-Swetha has contributed to academic publications focusing on emerging technologies like VR/AR/MR. This section presents her published works along with relevant links for further reading.
+I've contributed to academic publications focusing on emerging technologies like VR/AR/MR, exploring their societal, legal, and ethical impacts.
 
 ## Achievements
 
-Swetha has been recognized for her academic excellence and achievements. This section acknowledges her accomplishments and milestones.
-
-## Footer
-
-The footer section contains copyright information and credits Swetha for her portfolio.
+Some of my noteworthy achievements include:
+- Being recognized as the Branch topper in college.
+- Achieving a 50 days LeetCode badge.
 
 ## Navigation
 
-The site features a responsive navbar for easy navigation. The navbar includes links to Swetha's LinkedIn, GitHub, and LeetCode profiles.
-
-## Styling
-
-The site is styled using custom CSS and Bootstrap for a clean and modern look. It also utilizes Font Awesome icons for additional visual appeal.
+You can easily navigate through my portfolio using the responsive navbar, which includes links to my LinkedIn, GitHub, and LeetCode profiles.
 
 ## Contribution
 
-Contributions to this portfolio site are welcome. If you have any suggestions, improvements, or feedback, feel free to open an issue or submit a pull request.
+I welcome contributions and feedback on my portfolio. Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
