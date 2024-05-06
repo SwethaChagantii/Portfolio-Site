@@ -7,6 +7,7 @@ Hello there! 👋 I'm Swetha Chaganti, and this is my online portfolio. Welcome 
 - [About](#about)
 - [Education](#education)
 - [Internships](#internships)
+- [Certifications](#certifications)
 - [Skills](#skills)
 - [Projects](#projects)
 - [Publications](#publications)
@@ -32,6 +33,13 @@ I'm an undergraduate student pursuing a degree in computer science with a keen i
 During my academic journey, I've had the privilege of participating in valuable internships:
 - **Salesforce Developer Virtual Internship:** April 2022 - June 2022. Gained hands-on experience in Salesforce development, including customization, Apex coding, and Lightning component creation.
 - **AWS Cloud Virtual Internship:** September 2023 – November 2023. Acquired practical skills in AWS Cloud and its services.
+
+## Certifications
+
+AWS Cloud Practitioner Global Certification CLF - C01 July 2023
+NPTEL IIT Madras - Python for Data Science Feb 2023 
+NPTEL IIT Kharagpur - Problem Solving Through Programming in C Oct 2022
+Certified by Microsoft Technology Associate in Introduction to Programming Using Python June 2022
 
 ## Skills
 
