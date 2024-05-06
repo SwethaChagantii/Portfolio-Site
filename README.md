@@ -36,10 +36,10 @@ During my academic journey, I've had the privilege of participating in valuable 
 
 ## Certifications
 
-AWS Cloud Practitioner Global Certification CLF - C01 July 2023
-NPTEL IIT Madras - Python for Data Science Feb 2023 
-NPTEL IIT Kharagpur - Problem Solving Through Programming in C Oct 2022
-Certified by Microsoft Technology Associate in Introduction to Programming Using Python June 2022
+- AWS Cloud Practitioner Global Certification CLF - C01 July 2023
+- NPTEL IIT Madras - Python for Data Science Feb 2023 
+- NPTEL IIT Kharagpur - Problem Solving Through Programming in C Oct 2022
+- Certified by Microsoft Technology Associate in Introduction to Programming Using Python June 2022
 
 ## Skills
 
