@@ -14,9 +14,8 @@ Hello there! 👋 I'm Swetha Chaganti, and this is my online portfolio. Welcome 
 - [Achievements](#achievements)
 - [Footer](#footer)
 - [Navigation](#navigation)
-- [Styling](#styling)
 - [Contribution](#contribution)
-- [License](#license)
+
 
 ## About
 
