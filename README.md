@@ -23,7 +23,7 @@ I'm an undergraduate student pursuing a degree in computer science with a keen i
 
 ## Education
 
-- **Bachelor of Technology:** Currently pursuing at Pragati Engineering College, specializing in CSE with a focus on A.I & M.L.
+- **Bachelor of Technology:** Currently pursuing at Pragati Engineering College, specializing in CSE with a focus on A.I & M.L with 8.86 CGPA
 - **Intermediate Education:** Completed at Aditya Junior College with a specialization in MPC, achieving a remarkable percentage of 94.1%.
 - **Secondary Education:** Completed at Aditya (EM) High School with a perfect CGPA of 10.
 
